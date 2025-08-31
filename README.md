@@ -12,12 +12,6 @@ This repository contains all the materials, datasets, and code examples used dur
 *   Hands-on session with Python, Pandas, and Scikit-learn.
 *   Data cleaning and preprocessing techniques.
 *   The datasets for today's session can be found in the `Day 1/datasets` directory.
-
-### Day 2: Building and Evaluating Models
-
-*   Building your first Machine Learning model.
-*   Model evaluation and validation.
-*   Introduction to advanced topics.
 *   (More content to be added)
 
 ---
